@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 80vw;
+  height: 100vh;
+  background-color: whitesmoke;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+
+  margin: 5% 10%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+#header {
+  padding: 0.1rem;
+  margin: 0.1rem;
+  text-align: center;
+  width: 100%;
+}
+
+#header p {
+  text-align: right;
+  margin-top: 0.5rem;
+}
+
+h1,
+h3 {
+  color: rgb(12, 151, 151);
+  font-weight: bolder;
+}
+
+.sub-headings {
+  color: #000;
+  margin-top: 0.5rem;
+}
+
+li {
+  margin-left: 2rem;
+}
