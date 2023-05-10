@@ -1,0 +1,17 @@
+#header {
+  background-color: gray;
+  padding: 10px;
+  margin: 10px;
+}
+
+#movies-list {
+  background-color: orangered;
+  padding: 5px;
+  margin: 5px;
+}
+
+#movies-list p {
+  background-color: yellow;
+  padding: 5px;
+  margin: 5px;
+}
